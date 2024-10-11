@@ -1,7 +1,7 @@
 /** selection sort is a comparision based sorting
  *  In this we select a max or min element and find its right position.
  *  and swap.
- */
+ **/
 
 public class SelectionSort {
     private static int findMax(int[]arr,int st,int e){
